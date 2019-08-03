@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-color: lightcyan;
+	font-size: 15px;
+	margin-left: 600px;
+	font-family: Roboto, Helvetica, Arial;
+}
+
+input{
+	margin-left:20px;
+}
